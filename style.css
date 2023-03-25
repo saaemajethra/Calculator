@@ -8,6 +8,14 @@ body,html{
     height: 100%;
     width: 100%;
 }
+.container{
+    min-width:30vh;
+    width: fit-content;
+    border:1px solid black;
+    padding: 25px 15px;
+    background-color: rgb(31, 65, 82);
+    box-shadow: 15px 15px 15px rgb(75, 73, 73);
+}
 .button{
     padding: 20px;
     margin: 0 3px;
